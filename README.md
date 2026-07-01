@@ -5,7 +5,7 @@ Project Overview
 This project is an interactive Power BI dashboard developed to analyze PhonePe transaction data. It provides insights into transaction trends, payment status, customer demographics, and service performance using interactive visualizations.
 
 *Dashboard Features*
-KPI Cards
+-KPI Cards
 -Dynamic Text using DAX
 -Interactive Slicers
 -Report Tooltips
@@ -15,17 +15,9 @@ KPI Cards
 -Age Segment Analysis
 -Business Insights
 -Custom PhonePe Theme
-*Tools Used*
--Power BI
--Power Query
--DAX
--Data Modeling
--Excel
-*Key Metrics*
--Total Transactions: 300K
--Total Transaction Value: ₹3.47 Billion
--Unique Users: 108K
--Success Rate: 96%
+
+
+
 *Skills Demonstrated*
 -Data Cleaning
 -Data Transformation
