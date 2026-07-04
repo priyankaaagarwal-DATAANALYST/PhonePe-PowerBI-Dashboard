@@ -27,3 +27,6 @@ This project is an interactive Power BI dashboard developed to analyze PhonePe t
 -Interactive Dashboard Design
 -Business Intelligence
 -Data Visualization
+
+images
+(https://github.com/priyankaaagarwal-DATAANALYST/PhonePe-PowerBI-Dashboard/blob/main/image/Dashboard%20Overview.png)
